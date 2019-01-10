@@ -15,6 +15,7 @@ You can buy DSTIKE products on these pages:
   - [Deauth Detector v2](#deauth-detector-v2)
 - [Deauther (without OLED)](#deauther)
   - [Deauther v1](#deauther-v1)
+  - [Deauther v1.5](#deauther-v15)
   - [Deauther v2](#deauther-v2)
   - [Deauther v3](#deauther-v3)
   - [Deauther v3.5](#deauther-v35)
@@ -41,10 +42,14 @@ You can buy DSTIKE products on these pages:
   - [DSTIKE NodeMCU-07 v1]()
   - [DSTIKE NodeMCU-07 v2]()
 
+---  
+
 ## Deauth Detector
 
 ![Deauth Detector case 1](/Deauth-Detector/Deauth_Detector_case_1.jpg)  
 ![Deauth Detector case 2](/Deauth-Detector/Deauth_Detector_case_2.jpg)  
+
+---  
 
 ### Deauth Detector v1
 
@@ -65,6 +70,8 @@ You can buy DSTIKE products on these pages:
 Software:  
 - [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther/)  
 - [Deauth Detector](http://github.com/spacehuhn/DeauthDetector)  
+
+---  
 
 ### Deauth Detector v2
 
@@ -102,8 +109,10 @@ Software:
 
 **Discontinued**
 
-![Deauther v1 1]()
-![Deauther v1 2]()
+![Deauther v1 1](/Deauther/Deauther_v1_1.jpg)
+![Deauther v1 2](/Deauther/Deauther_v1_2.jpg)
+
+[Tindie](https://www.tindie.com/products/lspoplove/pocket-8266-esp826618650-battery-wifi-deauther/)
 
 |  |
 | - |
@@ -116,12 +125,32 @@ Software:
 
 ---  
 
+### Deauther v1.5
+
+**Discontinued**
+
+![Deauther v1.5 1](/Deauther/Deauther_v1-5_1.jpg)
+![Deauther v1.5 2](/Deauther/Deauther_v1-5_2.jpg)
+
+|  |
+| - |
+| 18650 LiPo support with integrated charger  |
+| ESP-WROOM-02 with 4MByte flash |
+| Micro USB connector |
+
+[Tindie](https://www.tindie.com/products/lspoplove/wifi-deauther-v-15pre-flashed-pocket8266/)
+
+Software:  
+- [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther/)
+
+---  
+
 ### Deauther v2
 
 **Discontinued**
 
-![Deauther v2 1]()
-![Deauther v2 2]()
+![Deauther v2 1](/Deauther/Deauther_v2_1.jpg)
+![Deauther v2 2](/Deauther/Deauther_v2_2.jpg)
 
 |  |
 | - |
@@ -138,8 +167,8 @@ Software:
 
 **Discontinued**
 
-![Deauther v3 1]()
-![Deauther v3 2]()
+![Deauther v3 1](/Deauther/Deauther_v3_1.jpg)
+![Deauther v3 2](/Deauther/Deauther_v3_2.jpg)
 
 |  |
 | - |
@@ -158,8 +187,8 @@ Software:
 
 **Discontinued**
 
-![Deauther v3.5 1]()
-![Deauther v3.5 2]()
+![Deauther v3.5 1](/Deauther/Deauther_v3-5_1.jpg)
+![Deauther v3.5 2](/Deauther/Deauther_v3-5_2.jpg)
 
 |  |
 | - |
