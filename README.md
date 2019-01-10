@@ -10,20 +10,20 @@ You can buy DSTIKE products on these pages:
 - [Maltronics](https://maltronics.com/)
 
 ## Overview
-- Deauth Detector
-  - [Deauth Detector v1]()
-  - [Deauth Detector v2]()
-- Deauther (without OLED)
+- [Deauth Detector](#deauth-detector)
+  - [Deauth Detector v1](#deauth-detector-v1)
+  - [Deauth Detector v2](#deauth-detector-v2)
+- [Deauther (without OLED)]()
   - [Deauther v1]()
   - [Deauther v2]()
   - [Deauther v3]()
   - [Deauther v3.5]()
 - [Deauther Boy]() 
 - [Deauther Mini]()
-- Deauther Monster
+- [Deauther Monster]()
   - [Deauther Monster v1]()
   - [Deauther Monster v2]()
-- Deauther OLED
+- [Deauther OLED]()
   - [Deauther OLED v1]()
   - [Deauther OLED v1.5]()
   - [Deauther OLED v1.5S]()
@@ -33,18 +33,18 @@ You can buy DSTIKE products on these pages:
   - [Deauther OLED v3.5]()
   - [Deauther OLED v4]()
   - [Deauther OLED Mini]()
-- Deauther Wristband
+- [Deauther Wristband]()
   - [Deauther Wristband v1]()
   - [Deauther Wristband v2]()
 - [LED Ring Shield]()
-- NodeMCU-07
+- [NodeMCU-07]()
   - [DSTIKE NodeMCU-07 v1]()
   - [DSTIKE NodeMCU-07 v2]()
   
 ## Deauth Detector
 
-![Deauth Detector case 1]()
-![Deauth Detector case 2]()
+![Deauth Detector case 1](/Deauth-Detector/Deauth_Detector_case_1.jpg)
+![Deauth Detector case 2](/Deauth-Detector/Deauth_Detector_case_2.jpg)
 
 ### Deauth Detector v1
 
@@ -65,8 +65,8 @@ Software:
 
 ### Deauth Detector v2
 
-![Deauth Detector v2 PCB 1]()
-![Deauth Detector v2 PCB 2]()
+![Deauth Detector v2 PCB 1](/Deauth-Detector/Deauth_Detector_v2_1.jpg)
+![Deauth Detector v2 PCB 2](/Deauth-Detector/Deauth_Detector_v2_2.jpg)
 
 - [Tindie](https://www.tindie.com/products/lspoplove/dstike-deauth-detector-v2pre-flashed/)
 - [AliExpress](https://www.aliexpress.com/item/D-duino-V3-ESP8266-0-96OLED-Arduino-NodeMCU-DIY-electronic-diy-kit-lcd-DIY-electronic-raspberry/32812101331.html)
