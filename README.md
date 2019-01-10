@@ -68,7 +68,7 @@ Software:
 
 ![Deauth Detector v2 PCB 1](/Deauth-Detector/Deauth_Detector_v2_1.jpg)
 ![Deauth Detector v2 PCB 2](/Deauth-Detector/Deauth_Detector_v2_2.jpg)
-
+- [Deauth Detector V2 Schematic](https://github.com/lspoplove/Deauther-Project/blob/master/Deauth-Detector/Deauth%20Detector%20V2%20schematic.pdf)
 - [Tindie](https://www.tindie.com/products/lspoplove/dstike-deauth-detector-v2pre-flashed/)
 - [AliExpress](https://www.aliexpress.com/item/D-duino-V3-ESP8266-0-96OLED-Arduino-NodeMCU-DIY-electronic-diy-kit-lcd-DIY-electronic-raspberry/32812101331.html)
 - [Maltronics](https://maltronics.com/collections/deauthers/products/wifi-deauther-usb)
