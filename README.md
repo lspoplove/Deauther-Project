@@ -48,8 +48,9 @@ You can buy DSTIKE products on these pages:
 
 ### Deauth Detector v1
 
-![Deauth Detector v1 PCB 1]()
-![Deauth Detector v1 PCB 2]()
+![Deauth Detector v1 PCB 1](https://github.com/lspoplove/Deauther-Project/blob/master/Deauth-Detector/Deauth_Detector_v1_1.jpg)
+![Deauth Detector v1 PCB 2](https://github.com/lspoplove/Deauther-Project/blob/master/Deauth-Detector/Deauth_Detector_v1_2.jpg)
+- [Deauth Detector V1](https://www.tindie.com/products/lspoplove/deauth-detector-pre-flashed/#)
 
 **Discontinued**
 
