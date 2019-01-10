@@ -43,17 +43,17 @@ You can buy DSTIKE products on these pages:
 
 ## Deauth Detector
 
-![Deauth Detector case 1](/Deauth-Detector/Deauth_Detector_case_1.jpg)
-![Deauth Detector case 2](/Deauth-Detector/Deauth_Detector_case_2.jpg)
+![Deauth Detector case 1](/Deauth-Detector/Deauth_Detector_case_1.jpg)  
+![Deauth Detector case 2](/Deauth-Detector/Deauth_Detector_case_2.jpg)  
 
 ### Deauth Detector v1
 
-**Also known as Deauther USB.**  
-
-![Deauth Detector v1 PCB 1]()
-![Deauth Detector v1 PCB 2]()
+![Deauth Detector v1 PCB 1](/Deauth-Detector/Deauth_Detector_v1_1.jpg)  
+![Deauth Detector v1 PCB 2](/Deauth-Detector/Deauth_Detector_v1_2.jpg)  
 
 **Discontinued**
+
+- [Tindie](https://www.tindie.com/products/lspoplove/deauth-detector-pre-flashed)  
 
 |  |
 | - |
@@ -63,17 +63,19 @@ You can buy DSTIKE products on these pages:
 | Standard USB thumb drive case |
 
 Software:  
-- [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther/)
-- [Deauth Detector](http://github.com/spacehuhn/DeauthDetector)
+- [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther/)  
+- [Deauth Detector](http://github.com/spacehuhn/DeauthDetector)  
 
 ### Deauth Detector v2
 
-![Deauth Detector v2 PCB 1](/Deauth-Detector/Deauth_Detector_v2_1.jpg)
-![Deauth Detector v2 PCB 2](/Deauth-Detector/Deauth_Detector_v2_2.jpg)
+![Deauth Detector v2 PCB 1](/Deauth-Detector/Deauth_Detector_v2_1.jpg)  
+![Deauth Detector v2 PCB 2](/Deauth-Detector/Deauth_Detector_v2_2.jpg)  
 
-- [Tindie](https://www.tindie.com/products/lspoplove/dstike-deauth-detector-v2pre-flashed/)
-- [AliExpress](https://www.aliexpress.com/item/D-duino-V3-ESP8266-0-96OLED-Arduino-NodeMCU-DIY-electronic-diy-kit-lcd-DIY-electronic-raspberry/32812101331.html)
-- [Maltronics](https://maltronics.com/collections/deauthers/products/wifi-deauther-usb)
+[Schematic](/Deauth-Detector/Deauth%20Detector%20V2%20schematic.pdf)  
+
+- [Tindie](https://www.tindie.com/products/lspoplove/dstike-deauth-detector-v2pre-flashed/)  
+- [AliExpress](https://www.aliexpress.com/item/D-duino-V3-ESP8266-0-96OLED-Arduino-NodeMCU-DIY-electronic-diy-kit-lcd-DIY-electronic-raspberry/32812101331.html)  
+- [Maltronics](https://maltronics.com/collections/deauthers/products/wifi-deauther-usb)  
 
 |  |
 | - |
