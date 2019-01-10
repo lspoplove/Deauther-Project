@@ -17,7 +17,7 @@ You can buy DSTIKE products on these pages:
   - [Deauther v1](#deauther-v1)
   - [Deauther v2](#deauther-v2)
   - [Deauther v3](#deauther-v3)
-  - [Deauther v3.5](#deauther-v3-5)
+  - [Deauther v3.5](#deauther-v35)
 - [Deauther Boy]()
 - [Deauther Mini]()
 - [Deauther Monster]()
@@ -89,10 +89,14 @@ Software:
 - [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther/)
 - [Deauth Detector](http://github.com/spacehuhn/DeauthDetector)
 
+---  
+
 ## Deauther
 
 **Also known as Pocket8266.**  
 **This product line was retired.**
+
+---  
 
 ### Deauther v1
 
@@ -110,6 +114,8 @@ Software:
 Software:  
 - [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther/)
 
+---  
+
 ### Deauther v2
 
 **Discontinued**
@@ -125,6 +131,8 @@ Software:
 
 Software:  
 - [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther/)
+
+---  
 
 ### Deauther v3
 
@@ -143,6 +151,8 @@ Software:
 
 Software:  
 - [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther/)
+
+---  
 
 ### Deauther v3.5
 
