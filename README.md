@@ -22,24 +22,24 @@ You can buy DSTIKE products on these pages:
 - [Deauther Boy](#deauther-boy)
 - [Deauther Mini](#deauther-mini)
 - [Deauther Monster](#deauther-monster)
-  - [Deauther Monster v1]()
-  - [Deauther Monster v2]()
-- [Deauther OLED]()
-  - [Deauther OLED v1]()
-  - [Deauther OLED v1.5]()
-  - [Deauther OLED v1.5S]()
-  - [Deauther OLED v2]()
-  - [Deauther OLED v2.5]()
-  - [Deauther OLED v3]()
-  - [Deauther OLED v3.5]()
-  - [Deauther OLED v4]()
-- [Deauther Wristband]()
-  - [Deauther Wristband v1]()
-  - [Deauther Wristband v2]()
-- [LED Ring Shield]()
-- [NodeMCU-07]()
-  - [DSTIKE NodeMCU-07 v1]()
-  - [DSTIKE NodeMCU-07 v2]()
+  - [Deauther Monster v1](#deauther-monster-v1)
+  - [Deauther Monster v2](#deauther-monster-v2)
+- [Deauther OLED](#deauther-oled)
+  - [Deauther OLED v1](#deauther-oled-v1)
+  - [Deauther OLED v1.5](#deauther-oled-v15)
+  - [Deauther OLED v1.5S](#deauther-oled-v15s)
+  - [Deauther OLED v2](#deauther-oled-v2)
+  - [Deauther OLED v2.5](#deauther-oled-v25)
+  - [Deauther OLED v3](#deauther-oled-v3)
+  - [Deauther OLED v3.5](#deauther-oled-v35)
+  - [Deauther OLED v4](#deauther-oled-v4)
+- [Deauther Wristband](#deauther-wristband)
+  - [Deauther Wristband v1](#deauther-wristband-v1)
+  - [Deauther Wristband v2](#deauther-wristband-v2)
+- [LED Ring Shield](#led-ring-shield)
+- [NodeMCU-07](#nodemcu-07)
+  - [DSTIKE NodeMCU-07 v1](#nodemcu-07-v1)
+  - [DSTIKE NodeMCU-07 v2](#nodemcu-07-v2)
 
 ---  
 
@@ -305,6 +305,201 @@ Software:
 [Tindie](https://www.tindie.com/products/lspoplove/dstike-wifi-deauther-monster-v2/)  
 [AliExpress](https://www.aliexpress.com/item/DSTIKE-Deauther-Monster-V2-ESP8266-development-board-18650-power-bank-2-USB-port-5V-2-5A/32859266128.html)  
 [Dstike](https://dstike.com/products/dstike-deauther-monster-v2)  
+
+Software:  
+- [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther/)  
+
+---  
+
+## Deauther OLED
+
+---  
+
+### Deauther OLED v1
+
+**Discontinued**  
+
+![Deauther OLED v1 1](/Deauther-OLED/Deauther_OLED_v1_1.jpg)  
+![Deauther OLED v1 2](/Deauther-OLED/Deauther_OLED_v1_2.jpg)  
+
+|  |
+| - |
+| Indicator LED on GPIO 16 |
+| 18650 LiPo support with integrated charger |
+| ESP-12 with 4MByte flash |
+| Micro USB connector |
+| 0.96" I2C OLED SSD1306 on SDA = GPIO 5 (D1), SCL = GPIO 4 (D2) |
+| Button Up on GPIO 12 |
+| Button Down on GPIO 13 |
+| Button A on GPIO 14 |
+
+[Tindie](https://www.tindie.com/products/lspoplove/wifi-deautheresp8266-preflashed-dev-oled-version/)  
+
+Software:  
+- [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther/)  
+
+---  
+
+### Deauther OLED v1.5
+
+**Discontinued**  
+
+![Deauther OLED v1.5 1](/Deauther-OLED/Deauther_OLED_v1-5_1.jpg)  
+![Deauther OLED v1.5 2](/Deauther-OLED/Deauther_OLED_v1-5_2.jpg)  
+
+|  |
+| - |
+| Indicator LED on GPIO 16 |
+| 18650 LiPo support with integrated charger |
+| ESP-12 with 4MByte flash |
+| Micro USB connector |
+| 0.96" I2C OLED SSD1306 on SDA = GPIO 5 (D1), SCL = GPIO 4 (D2) |
+| Button Up on GPIO 12 |
+| Button Down on GPIO 13 |
+| Button A on GPIO 14 |
+
+[Tindie](https://www.tindie.com/products/lspoplove/wifi-deauther-oled-v15pre-flashed-white/)  
+
+Software:  
+- [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther/)  
+
+---  
+
+### Deauther OLED v1.5S
+
+![Deauther OLED v1.5S 1](/Deauther-OLED/Deauther_OLED_v1-5s_1.jpg)  
+![Deauther OLED v1.5S 2](/Deauther-OLED/Deauther_OLED_v1-5s_2.jpg)  
+
+|  |
+| - |
+| 1x Neopixel (WS2812b) on GPIO 15 (D8) |
+| 18650 LiPo support with integrated charger |
+| ESP-12 with 4MByte flash |
+| Micro USB connector |
+| 0.96" I2C OLED SSD1306 on SDA = GPIO 5 (D1), SCL = GPIO 4 (D2) |
+| Button Up on GPIO 12 |
+| Button Down on GPIO 13 |
+| Button A on GPIO 14 |
+
+[Tindie](https://www.tindie.com/products/lspoplove/dstike-new-wifi-deauther-oled-v15spre-flashed/)  
+[AliExpress](https://www.aliexpress.com/item/WiFi-Deauther-ESP8266-preflashed-development-board-OLED-version-ESP8266-18650-OLED/32813893212.html)  
+
+Software:  
+- [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther/)  
+
+---  
+
+### Deauther OLED v2
+
+**Discontinued**  
+
+![Deauther OLED v2 1](/Deauther-OLED/Deauther_OLED_v2_1.jpg)  
+![Deauther OLED v2 2](/Deauther-OLED/Deauther_OLED_v2_2.jpg)  
+
+|  |
+| - |
+| Indicator LED on GPIO 16 |
+| 18650 LiPo support with integrated charger |
+| ESP-12 with 4MByte flash |
+| Micro USB connector |
+| 0.96" I2C OLED SH1106 on SDA = GPIO 5 (D1), SCL = GPIO 4 (D2) |
+| Button Up on GPIO 12 |
+| Button Down on GPIO 13 |
+| Button A on GPIO 14 |
+
+Software:  
+- [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther/)  
+
+---  
+
+### Deauther OLED v2.5
+
+**Discontinued**  
+
+![Deauther OLED v2.5 1](/Deauther-OLED/Deauther_OLED_v2-5_1.jpg)  
+![Deauther OLED v2.5 2](/Deauther-OLED/Deauther_OLED_v2-5_2.jpg)  
+
+|  |
+| - |
+| Indicator LED on GPIO 16 |
+| 18650 LiPo support with integrated charger |
+| ESP-12 with 4MByte flash |
+| Micro USB connector |
+| 0.96" I2C OLED SH1106 on SDA = GPIO 5 (D1), SCL = GPIO 4 (D2) |
+| Button Up on GPIO 12 |
+| Button Down on GPIO 13 |
+| Button A on GPIO 14 |
+
+Software:  
+- [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther/)  
+
+---  
+
+### Deauther OLED v3
+
+**Discontinued**  
+
+![Deauther OLED v3 1](/Deauther-OLED/Deauther_OLED_v3_1.jpg)  
+![Deauther OLED v3 2](/Deauther-OLED/Deauther_OLED_v3_2.jpg)  
+
+|  |
+| - |
+| Indicator LED on GPIO 16 |
+| 18650 LiPo support with integrated charger |
+| ESP-12 with 4MByte flash |
+| Micro USB connector |
+| 0.96" I2C OLED SH1106 on SDA = GPIO 5 (D1), SCL = GPIO 4 (D2) |
+| Button Up on GPIO 12 |
+| Button Down on GPIO 13 |
+| Button A on GPIO 14 |
+
+Software:  
+- [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther/)  
+
+---  
+
+### Deauther OLED v3.5
+
+**Discontinued**  
+
+![Deauther OLED v3.5 1](/Deauther-OLED/Deauther_OLED_v3-5_1.jpg)  
+![Deauther OLED v3.5 2](/Deauther-OLED/Deauther_OLED_v3-5_2.jpg)  
+
+|  |
+| - |
+| 1x Neopixel (WS2812b) on GPIO 15 (D8) |
+| 18650 LiPo support with integrated charger |
+| ESP-12 with 4MByte flash |
+| Micro USB connector |
+| 1.3" I2C OLED SH1106 on SDA = GPIO 5 (D1), SCL = GPIO 4 (D2) |
+| Button Up on GPIO 12 |
+| Button Down on GPIO 13 |
+| Button A on GPIO 14 |
+
+Software:  
+- [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther/)  
+
+---  
+
+### Deauther OLED v4
+
+![Deauther OLED v4 1](/Deauther-OLED/Deauther_OLED_v4_1.jpg)  
+![Deauther OLED v4 2](/Deauther-OLED/Deauther_OLED_v4_2.jpg)  
+
+|  |
+| - |
+| 1x Neopixel (WS2812b) on GPIO 15 (D8) |
+| 18650 LiPo support with integrated charger |
+| ESP-12 with 4MByte flash |
+| Micro USB connector |
+| 1.3" I2C OLED SH1106 on SDA = GPIO 5 (D1), SCL = GPIO 4 (D2) |
+| Button Up on GPIO 12 |
+| Button Down on GPIO 13 |
+| Button A on GPIO 14 |
+
+[Tindie](https://www.tindie.com/products/lspoplove/dstike-wifi-deauther-oled-v4/)  
+[AliExpress](https://www.aliexpress.com/item/WiFi-deauther-OLED-V2-include-Case-and-Antenna/32825138910.html)  
+[Dstike](https://dstike.com/products/dstike-wifi-deauther-oled-v4)  
 
 Software:  
 - [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther/)  
