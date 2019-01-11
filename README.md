@@ -555,9 +555,75 @@ Software:
 | Side Buttons on GPIO 0 and GPIO 2 |
 
 [Tindie](https://www.tindie.com/products/lspoplove/dstike-deauther-wristband-v2/)  
-[AliExpress](https://www.aliexpress.com/store/product/DSTIKE-Deauther-Wristband-V2-WiFi-Attack-Hack-ESP8266-Arduino-Smart-watch-Wearable-development-mi-band-apple/2996024_32956732012.html)
-[AliExpress Red Version](https://www.aliexpress.com/store/product/DSTIKE-Deauther-Wristband-V2-smart-watch-ESP8266-Arduino-WiFi-attack-hack-IOT-development-ESP-07-ipex/2996024_32964931767.html)
-[Dstike](https://dstike.com/products/dstike-deauther-wristand-v2)
+[AliExpress](https://www.aliexpress.com/store/product/DSTIKE-Deauther-Wristband-V2-WiFi-Attack-Hack-ESP8266-Arduino-Smart-watch-Wearable-development-mi-band-apple/2996024_32956732012.html)  
+[AliExpress Red Version](https://www.aliexpress.com/store/product/DSTIKE-Deauther-Wristband-V2-smart-watch-ESP8266-Arduino-WiFi-attack-hack-IOT-development-ESP-07-ipex/2996024_32964931767.html)  
+[Dstike](https://dstike.com/products/dstike-deauther-wristand-v2)  
 
 Software:  
 - [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther/)  
+
+---  
+
+## LED Ring Shield
+
+![LED Ring Shield 1](/Deauther-OLED/LED_Ring_Shield_1.jpg)  
+![LED Ring Shield 2](/Deauther-OLED/LED_Ring_Shield_2.jpg)  
+
+|  |
+| - |
+| 12x Neopixel (WS2812b) on GPIO 15 (D8) |
+| 18650 or JST connected LiPo support with charger |
+| Micro USB connector |
+| Button Up on GPIO 12 |
+| Button Down on GPIO 13 |
+| Button A on GPIO 14 |
+
+[Tindie](https://www.tindie.com/products/lspoplove/dstike-ring-shield/)  
+[AliExpress](https://www.aliexpress.com/item/Ring-Shield-for-D-duino-D-duino-B-D-duino-32-NodeMCU-07-ws2812b-18650-battery/32863279017.html)  
+
+Software:  
+- [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther/)  
+
+---  
+
+## NodeMCU-07
+
+---  
+
+## NodeMCU-07 v1
+
+**Discontinued**
+
+![NodeMCU-07 v1 1](/Deauther-OLED/NodeMCU-07_v1_1.jpg)  
+![NodeMCU-07 v1 2](/Deauther-OLED/NodeMCU-07_v1_2.jpg)  
+
+| |
+| - |
+| LiPo over JST with integrated charger |
+| ESP-07 with 1MByte flash |
+| Micro USB connector |
+
+Software:  
+- [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther/)  
+
+---  
+
+## NodeMCU-07 v2
+
+![NodeMCU-07 v2 1](/Deauther-OLED/NodeMCU-07_v2_1.jpg)  
+![NodeMCU-07 v2 2](/Deauther-OLED/NodeMCU-07_v2_2.jpg)  
+
+| |
+| - |
+| 1x Neopixel (WS2812b) on GPIO 15 (D8) |
+| LiPo over JST with integrated charger |
+| ESP-07 with 1MByte flash |
+| Micro USB connector |
+
+[Tindie](https://www.tindie.com/products/lspoplove/dstike-nodemcu-07-v2/)  
+[AliExpress](https://www.aliexpress.com/item/DSTIKE-NodeMCU-07-V2-ESP8266-2dBi-antenna-battery-charger-RGB-LED-ESP-07-LM39100-Low-power/32839620256.html)  
+
+Software:  
+- [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther/)  
+
+---  
