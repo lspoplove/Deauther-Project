@@ -20,7 +20,7 @@ You can buy DSTIKE products on these pages:
   - [Deauther v3](#deauther-v3)
   - [Deauther v3.5](#deauther-v35)
 - [Deauther Boy](#deauther-boy)
-- [Deauther Mini]()
+- [Deauther Mini](#deauther-mini)
 - [Deauther Monster]()
   - [Deauther Monster v1]()
   - [Deauther Monster v2]()
@@ -109,8 +109,8 @@ Software:
 
 **Discontinued**
 
-![Deauther v1 1](/Deauther/Deauther_v1_1.jpg)
-![Deauther v1 2](/Deauther/Deauther_v1_2.jpg)
+![Deauther v1 1](/Deauther/Deauther_v1_1.jpg)  
+![Deauther v1 2](/Deauther/Deauther_v1_2.jpg)  
 
 [Tindie](https://www.tindie.com/products/lspoplove/pocket-8266-esp826618650-battery-wifi-deauther/)
 
@@ -129,8 +129,8 @@ Software:
 
 **Discontinued**
 
-![Deauther v1.5 1](/Deauther/Deauther_v1-5_1.jpg)
-![Deauther v1.5 2](/Deauther/Deauther_v1-5_2.jpg)
+![Deauther v1.5 1](/Deauther/Deauther_v1-5_1.jpg)  
+![Deauther v1.5 2](/Deauther/Deauther_v1-5_2.jpg)  
 
 |  |
 | - |
@@ -149,8 +149,8 @@ Software:
 
 **Discontinued**
 
-![Deauther v2 1](/Deauther/Deauther_v2_1.jpg)
-![Deauther v2 2](/Deauther/Deauther_v2_2.jpg)
+![Deauther v2 1](/Deauther/Deauther_v2_1.jpg)  
+![Deauther v2 2](/Deauther/Deauther_v2_2.jpg)  
 
 |  |
 | - |
@@ -167,8 +167,8 @@ Software:
 
 **Discontinued**
 
-![Deauther v3 1](/Deauther/Deauther_v3_1.jpg)
-![Deauther v3 2](/Deauther/Deauther_v3_2.jpg)
+![Deauther v3 1](/Deauther/Deauther_v3_1.jpg)  
+![Deauther v3 2](/Deauther/Deauther_v3_2.jpg)  
 
 |  |
 | - |
@@ -218,13 +218,40 @@ Software:
 | 2x 18650 LiPo support with integrated charger  |
 | ESP-12 with 4MByte flash |
 | Micro USB connector |
-| 1.3" I2C OLED SH1106 at SDA = GPIO 5 (D1), SCL = GPIO 4 (D2) |
-| Button Up at GPIO 10 |
-| Button Down at GPIO 9 |
-| Button A at GPIO 14 |
-| Button B at GPIO 12 |
+| 1.3" I2C OLED SH1106 on SDA = GPIO 5 (D1), SCL = GPIO 4 (D2) |
+| Button Up on GPIO 10 |
+| Button Down on GPIO 9 |
+| Button A on GPIO 14 |
+| Button B on GPIO 12 |
 
 [Tindie](https://www.tindie.com/products/lspoplove/dstike-deauther-boy/)  
 
 Software:  
-- [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther/)
+- [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther/)  
+
+---  
+
+## Deauther Mini
+
+![Deauther Mini 1](/Deauther-Mini/Deauther_Mini_1.jpg)  
+![Deauther Mini 2](/Deauther-Mini/Deauther_Mini_2.jpg)  
+
+|  |
+| - |
+| Highlight LED on GPIO 16 |
+| 1x Neopixel (WS2812b) on GPIO 15 (D8) |
+| 2x 18650 LiPo support with integrated charger  |
+| ESP-07 with 1MByte flash |
+| Micro USB connector |
+| 1.3" I2C OLED SH1106 on SDA = GPIO 5 (D1), SCL = GPIO 4 (D2) |
+| Button Up on GPIO 12 |
+| Button Down on GPIO 13 |
+| Button A on GPIO 14 |
+
+[Dstike](https://dstike.com/collections/frontpage/products/dstike-wifi-deauther-mini)  
+[Tindie](https://www.tindie.com/products/lspoplove/dstike-wifi-deauther-mini/)  
+[AliExpress](https://www.aliexpress.com/item/D-duino-B-V2-ESP8266-1-3OLED-Arduino-NodeMCU-DIY-electronic-diy-kit-lcd-DIY-electronic/32812394963.html)  
+[Maltronics](https://maltronics.com/collections/deauthers/products/wifi-deauther-oled)  
+
+Software:  
+- [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther/)  
