@@ -19,7 +19,7 @@ You can buy DSTIKE products on these pages:
   - [Deauther v2](#deauther-v2)
   - [Deauther v3](#deauther-v3)
   - [Deauther v3.5](#deauther-v35)
-- [Deauther Boy]()
+- [Deauther Boy](#deauther-boy)
 - [Deauther Mini]()
 - [Deauther Monster]()
   - [Deauther Monster v1]()
@@ -199,6 +199,32 @@ Software:
 | Includes external antenna |
 | Micro USB connector |
 | Female USB A connector to use as powerbank |
+
+Software:  
+- [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther/)
+
+---  
+
+## Deauther Boy
+
+**Discontinued**
+
+![Deauther Boy 1](/Deauther-Boy/Deauther_Boy_1.jpg)  
+![Deauther Boy 2](/Deauther-Boy/Deauther_Boy_2.jpg)  
+
+|  |
+| - |
+| 1x Neopixel (WS2812b) on GPIO 15 (D8) |
+| 2x 18650 LiPo support with integrated charger  |
+| ESP-12 with 4MByte flash |
+| Micro USB connector |
+| 1.3" I2C OLED SH1106 at SDA = GPIO 5 (D1), SCL = GPIO 4 (D2) |
+| Button Up at GPIO 10 |
+| Button Down at GPIO 9 |
+| Button A at GPIO 14 |
+| Button B at GPIO 12 |
+
+[Tindie](https://www.tindie.com/products/lspoplove/dstike-deauther-boy/)  
 
 Software:  
 - [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther/)
