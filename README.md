@@ -503,3 +503,61 @@ Software:
 
 Software:  
 - [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther/)  
+
+---  
+
+## Deauther Wristband
+
+---  
+
+### Deauther Wristband v1
+
+**Discontinued**  
+
+![Deauther Wristband v1 1](/Deauther-OLED/Deauther_Wristband_v1_1.jpg)  
+![Deauther Wristband v1 2](/Deauther-OLED/Deauther_Wristband_v1_2.jpg)  
+
+|  |
+| - |
+| Highlight LED on GPIO 16 |
+| 1x Neopixel (WS2812b) on GPIO 15 (D8) |
+| Integrated LiPo with charger |
+| ESP-12 with 4MByte flash |
+| Micro USB connector |
+| 1.3" I2C OLED SH1106 on SDA = GPIO 5 (D1), SCL = GPIO 4 (D2) |
+| Button Up on GPIO 12 |
+| Button Down on GPIO 13 |
+| Button A on GPIO 14 |
+
+[Tindie](https://www.tindie.com/products/lspoplove/dstike-deauther-wristband/)  
+
+Software:  
+- [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther/)  
+
+---  
+
+### Deauther Wristband v2
+
+![Deauther Wristband v2 1](/Deauther-OLED/Deauther_Wristband_v2_1.jpg)  
+![Deauther Wristband v2 2](/Deauther-OLED/Deauther_Wristband_v2_2.jpg)  
+
+|  |
+| - |
+| Highlight LED on GPIO 16 |
+| 1x Neopixel (WS2812b) on GPIO 15 (D8) |
+| Integrated LiPo with charger |
+| ESP-12 with 4MByte flash |
+| Micro USB connector |
+| 1.3" I2C OLED SH1106 on SDA = GPIO 5 (D1), SCL = GPIO 4 (D2) |
+| Button Up on GPIO 12 |
+| Button Down on GPIO 13 |
+| Button A on GPIO 14 |
+| Side Buttons on GPIO 0 and GPIO 2 |
+
+[Tindie](https://www.tindie.com/products/lspoplove/dstike-deauther-wristband-v2/)  
+[AliExpress](https://www.aliexpress.com/store/product/DSTIKE-Deauther-Wristband-V2-WiFi-Attack-Hack-ESP8266-Arduino-Smart-watch-Wearable-development-mi-band-apple/2996024_32956732012.html)
+[AliExpress Red Version](https://www.aliexpress.com/store/product/DSTIKE-Deauther-Wristband-V2-smart-watch-ESP8266-Arduino-WiFi-attack-hack-IOT-development-ESP-07-ipex/2996024_32964931767.html)
+[Dstike](https://dstike.com/products/dstike-deauther-wristand-v2)
+
+Software:  
+- [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther/)  
