@@ -300,6 +300,9 @@ Software:
 
 ![Deauther Monster v2 1](/Deauther-Monster/Deauther_Monster_v2_1.jpg)  
 ![Deauther Monster v2 2](/Deauther-Monster/Deauther_Monster_v2_2.jpg)  
+[Schematic](/Deauther-Monster/Deauther_Monster_v2_schematic.pdf)    
+[CAD](/Deauther-Monster/Deauther_Monster_v2_cad.DWG)  
+
 
 |  |
 | - |
@@ -311,6 +314,9 @@ Software:
 | Button Up on GPIO 12 |
 | Button Down on GPIO 13 |
 | Button A on GPIO 14 |
+
+
+
 
 [Tindie](https://www.tindie.com/products/lspoplove/dstike-wifi-deauther-monster-v2/)  
 [AliExpress](https://www.aliexpress.com/item/DSTIKE-Deauther-Monster-V2-ESP8266-development-board-18650-power-bank-2-USB-port-5V-2-5A/32859266128.html)  
