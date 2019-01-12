@@ -156,8 +156,8 @@ Software:
 |  |
 | - |
 | 18650 LiPo support with integrated charger  |
-| ESP-12 with 4MByte flash |
-| Micro USB connector |
+| ESP-07 with 1MByte flash |
+| Power solution changed to IP5306 |
 
 Software:  
 - [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther/)
