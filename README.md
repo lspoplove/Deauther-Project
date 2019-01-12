@@ -214,6 +214,8 @@ Software:
 
 ![Deauther Boy 1](/Deauther-Boy/Deauther_Boy_1.jpg)  
 ![Deauther Boy 2](/Deauther-Boy/Deauther_Boy_2.jpg)  
+[Schematic](/Deauther-Boy/Deauther_Boy_schematic.pdf)  
+
 
 |  |
 | - |
