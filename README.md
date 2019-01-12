@@ -506,6 +506,10 @@ Software:
 
 ![Deauther OLED v4 1](/Deauther-OLED/Deauther_OLED_v4_1.jpg)  
 ![Deauther OLED v4 2](/Deauther-OLED/Deauther_OLED_v4_2.jpg)  
+[Schematic](/Deauther-OLED/Deauther_OLED_v4_schematic.pdf)      
+[CAD](/Deauther-OLED/Deauther_OLED_v4_cad.DWG)  
+
+
 
 |  |
 | - |
