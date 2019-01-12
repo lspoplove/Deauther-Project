@@ -460,8 +460,8 @@ Software:
 
 **Discontinued**  
 
-![Deauther OLED v3 1](/Deauther-OLED/Deauther_OLED_v3_1.jpg)  
-![Deauther OLED v3 2](/Deauther-OLED/Deauther_OLED_v3_2.jpg)  
+![Deauther OLED v3 1](/Deauther-OLED/Deauther_v3_1.jpg)  
+![Deauther OLED v3 2](/Deauther-OLED/Deauther_v3_2.jpg)  
 
 |  |
 | - |
