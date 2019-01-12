@@ -337,6 +337,9 @@ Software:
 
 ![Deauther OLED v1 1](/Deauther-OLED/Deauther_OLED_v1_11.jpg)  
 ![Deauther OLED v1 2](/Deauther-OLED/Deauther_OLED_v1_22.jpg)  
+[Schematic](/Deauther-OLED/Deauther_OLED_v1_schematic.pdf)  
+
+
 
 |  |
 | - |
