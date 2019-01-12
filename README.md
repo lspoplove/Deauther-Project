@@ -135,9 +135,9 @@ Software:
 
 |  |
 | - |
-| 18650 LiPo support with integrated charger  |
-| ESP-WROOM-02 with 4MByte flash |
-| Micro USB connector |
+| Fixed the hot problem 1N5819 changed to SS54  |
+| Footprint of MicroUSB changed |
+| Inductor 3R3 changed to 4R7 |
 
 [Tindie](https://www.tindie.com/products/lspoplove/wifi-deauther-v-15pre-flashed-pocket8266/)
 
