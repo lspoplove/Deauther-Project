@@ -150,8 +150,8 @@ Software:
 
 **Discontinued**
 
-![Deauther v2 1](/Deauther/Deauther_v2_1.jpg)  
-![Deauther v2 2](/Deauther/Deauther_v2_2.jpg)  
+![Deauther v2 1](/Deauther/DeautherV2_1.jpg)  
+![Deauther v2 2](/Deauther/DeautherV2_2.jpg)  
 
 |  |
 | - |
