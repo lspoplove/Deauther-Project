@@ -239,7 +239,7 @@ Software:
 ## Deauther Mini
 
 ![Deauther Mini 1](/Deauther-Mini/Deauther_Mini_1.jpg)  
-![Deauther Mini 2](/Deauther-Mini/Deauther_Mini_2.jpg)  
+![Deauther Mini 2](/Deauther-Mini/Deauther_Mini_22.jpg)  
 
 |  |
 | - |
