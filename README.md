@@ -628,8 +628,8 @@ Software:
 
 **Discontinued**
 
-![NodeMCU-07 v1 1](/Deauther-OLED/NodeMCU-07_v1_1.jpg)  
-![NodeMCU-07 v1 2](/Deauther-OLED/NodeMCU-07_v1_2.jpg)  
+![NodeMCU-07 v1 1](/NodeMCU-07/NodeMCU-07_v1_1.jpg)  
+![NodeMCU-07 v1 2](/NodeMCU-07/NodeMCU-07_v1_2.jpg)  
 
 | |
 | - |
@@ -644,8 +644,8 @@ Software:
 
 ## NodeMCU-07 v2
 
-![NodeMCU-07 v2 1](/Deauther-OLED/NodeMCU-07_v2_1.jpg)  
-![NodeMCU-07 v2 2](/Deauther-OLED/NodeMCU-07_v2_2.jpg)  
+![NodeMCU-07 v2 1](/NodeMCU-07/NodeMCU-07_v2_1.jpg)  
+![NodeMCU-07 v2 2](/NodeMCU-07/NodeMCU-07_v2_2.jpg)  
 
 | |
 | - |
