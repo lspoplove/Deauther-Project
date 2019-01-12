@@ -130,7 +130,9 @@ Software:
 
 ![](https://github.com/lspoplove/Deauther-Project/blob/master/Deauther/DeautherV1.5_1.jpg)  
 ![](https://github.com/lspoplove/Deauther-Project/blob/master/Deauther/DeautherV1.5_2.jpg)  
-[Schematic](https://github.com/lspoplove/Deauther-Project/blob/master/Deauther/DeautherV1.5_schematic.pdf)  
+[Schematic](/Deauther/DeautherV1.5_schematic.pdf)  
+
+
 |  |
 | - |
 | 18650 LiPo support with integrated charger  |
