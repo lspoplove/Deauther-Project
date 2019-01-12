@@ -539,8 +539,8 @@ Software:
 
 **Discontinued**  
 
-![Deauther Wristband v1 1](/Deauther-OLED/Deauther_Wristband_v1_1.jpg)  
-![Deauther Wristband v1 2](/Deauther-OLED/Deauther_Wristband_v1_2.jpg)  
+![Deauther Wristband v1 1](/Deauther-Wristband/Deauther_Wristband_v1_1.jpg)  
+![Deauther Wristband v1 2](/Deauther-Wristband/Deauther_Wristband_v1_2.jpg)  
 
 |  |
 | - |
