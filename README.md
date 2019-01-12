@@ -598,8 +598,10 @@ Software:
 
 ## LED Ring Shield
 
-![LED Ring Shield 1](/Deauther-OLED/LED_Ring_Shield_1.jpg)  
-![LED Ring Shield 2](/Deauther-OLED/LED_Ring_Shield_2.jpg)  
+![LED Ring Shield 1](/LED-Ring-Shield/LED_Ring_Shield_1.jpg)  
+![LED Ring Shield 2](/LED-Ring-Shield/LED_Ring_Shield_2.jpg)  
+[Schematic](/LED-Ring-Shield/LED_Ring_Shield_schematic.pdf) 
+
 
 |  |
 | - |
