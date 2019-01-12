@@ -38,8 +38,11 @@ You can buy DSTIKE products on these pages:
   - [Deauther Wristband v2](#deauther-wristband-v2)
 - [LED Ring Shield](#led-ring-shield)
 - [NodeMCU-07](#nodemcu-07)
-  - [DSTIKE NodeMCU-07 v1](#nodemcu-07-v1)
-  - [DSTIKE NodeMCU-07 v2](#nodemcu-07-v2)
+  - [NodeMCU-07 v1](#nodemcu-07-v1)
+  - [NodeMCU-07 v2](#nodemcu-07-v2)
+- [Deauther Powerbank](#deauther-powerbank)
+  - [Deauther Powerbank v1](#deauther-powerbank-v1)
+  - [Deauther Powerbank v2](#deauther-powerbank-v2)
 
 ---  
 
@@ -70,6 +73,9 @@ Software:
 - [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther/)  
 - [Deauth Detector](http://github.com/spacehuhn/DeauthDetector)  
 
+Videos:  
+- [New DSTIKE Deauther boards 2/2018 by spacehuhn](https://www.youtube.com/watch?v=zmyrqN2yI5I)  
+
 ---  
 
 ### Deauth Detector v2
@@ -94,6 +100,9 @@ Software:
 Software:  
 - [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther/)
 - [Deauth Detector](http://github.com/spacehuhn/DeauthDetector)
+
+Videos:  
+- [New DSTIKE Deauther boards 4/2018 by spacehuhn](https://www.youtube.com/watch?v=GB0hF4wPK5w)  
 
 ---  
 
@@ -122,6 +131,9 @@ Software:
 Software:  
 - [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther/)
 
+Videos:  
+- [Introducing: New WiFi Deauther Boards by spacehuhn](https://www.youtube.com/watch?v=w81fNaJDJFw)  
+
 ---  
 
 ### Deauther v1.5
@@ -131,7 +143,6 @@ Software:
 ![](https://github.com/lspoplove/Deauther-Project/blob/master/Deauther/DeautherV1.5_1.jpg)  
 ![](https://github.com/lspoplove/Deauther-Project/blob/master/Deauther/DeautherV1.5_2.jpg)  
 [Schematic](/Deauther/DeautherV1.5_schematic.pdf)  
-
 
 |  |
 | - |
@@ -182,6 +193,9 @@ Software:
 Software:  
 - [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther/)
 
+Videos:  
+- [New DSTIKE Deauther boards 2/2018 by spacehuhn](https://www.youtube.com/watch?v=zmyrqN2yI5I)  
+
 ---  
 
 ### Deauther v3.5
@@ -191,7 +205,6 @@ Software:
 ![Deauther v3.5 1](/Deauther/Deauther_v3.5_1.jpg)
 ![Deauther v3.5 2](/Deauther/Deauther_v3.5_2.jpg)
 [Schematic](/Deauther/Deauther_v3.5_schematic.pdf)  
-
 
 |  |
 | - |
@@ -216,7 +229,6 @@ Software:
 ![Deauther Boy 2](/Deauther-Boy/Deauther_Boy_2.jpg)  
 [Schematic](/Deauther-Boy/Deauther_Boy_schematic.pdf)  
 
-
 |  |
 | - |
 | 1x Neopixel (WS2812b) on GPIO 15 (D8) |
@@ -234,6 +246,9 @@ Software:
 Software:  
 - [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther/)  
 
+Videos:  
+- [New DSTIKE Deauther boards 4/2018 by spacehuhn](https://www.youtube.com/watch?v=GB0hF4wPK5w)  
+
 ---  
 
 ## Deauther Mini
@@ -242,8 +257,6 @@ Software:
 ![Deauther Mini 2](/Deauther-Mini/Deauther_Mini_22.jpg)  
 [Schematic](/Deauther-Mini/Deauther_Mini_schematic.pdf)  
 [CAD](/Deauther-Mini/Deauther_Mini_cad.DWG)
-
-
 
 |  |
 | - |
@@ -294,6 +307,9 @@ Software:
 Software:  
 - [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther/)  
 
+Videos:  
+- [New DSTIKE Deauther boards 4/2018 by spacehuhn](https://www.youtube.com/watch?v=GB0hF4wPK5w)  
+
 ---  
 
 ### Deauther Monster v2
@@ -302,7 +318,6 @@ Software:
 ![Deauther Monster v2 2](/Deauther-Monster/Deauther_Monster_v2_2.jpg)  
 [Schematic](/Deauther-Monster/Deauther_Monster_v2_schematic.pdf)    
 [CAD](/Deauther-Monster/Deauther_Monster_v2_cad.DWG)  
-
 
 |  |
 | - |
@@ -315,9 +330,6 @@ Software:
 | Button Down on GPIO 13 |
 | Button A on GPIO 14 |
 | Battery Reverse protection |
-
-
-
 
 [Tindie](https://www.tindie.com/products/lspoplove/dstike-wifi-deauther-monster-v2/)  
 [AliExpress](https://www.aliexpress.com/item/DSTIKE-Deauther-Monster-V2-ESP8266-development-board-18650-power-bank-2-USB-port-5V-2-5A/32859266128.html)  
@@ -340,8 +352,6 @@ Software:
 ![Deauther OLED v1 2](/Deauther-OLED/Deauther_OLED_v1_22.jpg)  
 [Schematic](/Deauther-OLED/Deauther_OLED_v1_schematic.pdf)  
 
-
-
 |  |
 | - |
 | Indicator LED on GPIO 16 |
@@ -357,6 +367,9 @@ Software:
 
 Software:  
 - [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther/)  
+
+Videos:  
+- [Introducing: New WiFi Deauther Boards by spacehuhn](https://www.youtube.com/watch?v=w81fNaJDJFw)  
 
 ---  
 
@@ -382,6 +395,9 @@ Software:
 
 Software:  
 - [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther/)  
+
+Videos:  
+- [New DSTIKE Deauther boards 4/2018 by spacehuhn](https://www.youtube.com/watch?v=GB0hF4wPK5w)  
 
 ---  
 
@@ -430,6 +446,12 @@ Software:
 Software:  
 - [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther/)  
 
+Cases:  
+- [DSTIKE WiFi Deauther OLED V2 Case](https://www.thingiverse.com/thing:2539589)  
+
+Videos:  
+- [ESP8266 Deauther v1.6 + updated boards! by spacehuhn](https://www.youtube.com/watch?v=StdM225pzto)  
+
 ---  
 
 ### Deauther OLED v2.5
@@ -438,7 +460,6 @@ Software:
 
 ![Deauther OLED v2.5 1](/Deauther-OLED/Deauther_OLED_v2-5_1.jpg)  
 ![Deauther OLED v2.5 2](/Deauther-OLED/Deauther_OLED_v2-5_2.jpg)  
-
 
 |  |
 | - |
@@ -453,6 +474,13 @@ Software:
 
 Software:  
 - [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther/)  
+
+Cases:  
+- [Deauther V2.5 Case by anima6](https://www.thingiverse.com/thing:2671674)  
+- [Dstike Deauther Case by dgriff](https://www.thingiverse.com/thing:2670817)  
+
+Videso:  
+- [Deauther OLED v2.5 Board by spacehuhn](https://www.youtube.com/watch?v=xWM3p0NWnlU)  
 
 ---  
 
@@ -477,6 +505,9 @@ Software:
 Software:  
 - [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther/)  
 
+Videos:  
+- [New DSTIKE Deauther boards 2/2018 by spacehuhn](https://www.youtube.com/watch?v=zmyrqN2yI5I)  
+
 ---  
 
 ### Deauther OLED v3.5
@@ -500,6 +531,13 @@ Software:
 Software:  
 - [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther/)  
 
+Cases:  
+- [DSTIKE WiFi deauther OLED V3.5 Case by darkgrue](https://www.thingiverse.com/thing:2854333)  
+- [DSTIKE v3.5 Case by out0fstep](https://www.thingiverse.com/thing:2920645)
+
+Videos:  
+- [New DSTIKE Deauther boards 4/2018 by spacehuhn](https://www.youtube.com/watch?v=GB0hF4wPK5w)  
+
 ---  
 
 ### Deauther OLED v4
@@ -508,8 +546,6 @@ Software:
 ![Deauther OLED v4 2](/Deauther-OLED/Deauther_OLED_v4_2.jpg)  
 [Schematic](/Deauther-OLED/Deauther_OLED_v4_schematic.pdf)      
 [CAD](/Deauther-OLED/Deauther_OLED_v4_cad.DWG)  
-
-
 
 |  |
 | - |
@@ -528,6 +564,9 @@ Software:
 
 Software:  
 - [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther/)  
+
+Videos:  
+- [DSTIKE Wristband v2 & Deauther OLED v4 - Showcase by spacehuhn](https://www.youtube.com/watch?v=TPFs4mueUtk&t=427s)  
 
 ---  
 
@@ -559,6 +598,13 @@ Software:
 Software:  
 - [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther/)  
 
+Cases:  
+- [@Spacehuhn/@Dstike Deauther Wristband housing/case by NaveMan](https://www.thingiverse.com/thing:3135398)  
+
+Videos:  
+- [DSTIKE Deauther Wristband - Showcase by spacehuhn](https://www.youtube.com/watch?v=QZPyXyRcls8)
+- [Deauther Wristband - Control WiFi From Your Wrist by Just Call Me Koko](https://www.youtube.com/watch?v=EnjTK_w8J_o)
+
 ---  
 
 ### Deauther Wristband v2
@@ -571,7 +617,6 @@ Software:
 
 [Wristband—base Schematic](/Deauther-Wristband/Deauther_Wristband_v2_Base_schematic.pdf)       
 [Wristband-base CAD](/Deauther-Wristband/Deauther_Wristband_v2_Base_CAD.DWG)
-
 
 |  |
 | - |
@@ -594,6 +639,9 @@ Software:
 Software:  
 - [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther/)  
 
+Videos:  
+- [DSTIKE Wristband v2 & Deauther OLED v4 - Showcase by spacehuhn](https://www.youtube.com/watch?v=TPFs4mueUtk)  
+
 ---  
 
 ## LED Ring Shield
@@ -615,6 +663,9 @@ Software:
 
 Software:  
 - [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther/)  
+
+Videos:  
+- [New DSTIKE Deauther boards 4/2018 by spacehuhn](https://www.youtube.com/watch?v=GB0hF4wPK5w)  
 
 ---  
 
@@ -654,6 +705,55 @@ Software:
 
 [Tindie](https://www.tindie.com/products/lspoplove/dstike-nodemcu-07-v2/)  
 [AliExpress](https://www.aliexpress.com/item/DSTIKE-NodeMCU-07-V2-ESP8266-2dBi-antenna-battery-charger-RGB-LED-ESP-07-LM39100-Low-power/32839620256.html)  
+
+Software:  
+- [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther/)  
+
+Videos:  
+- [New DSTIKE Deauther boards 4/2018 by spacehuhn](https://www.youtube.com/watch?v=GB0hF4wPK5w)  
+
+---  
+
+## Deauther Powerbank
+
+---  
+
+### Deauther Powerbank v1
+
+**Discontinued**
+
+![Deauther Powerbank v1 1](/Deauther-Powerbank/Deauther_Powerbank_v1_1.jpg)  
+![Deauther Powerbank v1 2](/Deauther-Powerbank/Deauther_Powerbank_v1_2.jpg)  
+
+| |
+| - |
+| ESP-07 with 1MByte flash |
+
+[Tindie](https://www.tindie.com/products/lspoplove/dstike-wifi-deauther-20000-mah-power-bank-diy-kit/)  
+
+Software:  
+- [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther/)  
+
+Videos:  
+- [New DSTIKE Deauther boards 2/2018 by spacehuhn](https://www.youtube.com/watch?v=zmyrqN2yI5I)  
+
+---  
+
+### Deauther Powerbank v2
+
+**Discontinued**
+
+![Deauther Powerbank v2 1](/Deauther-Powerbank/Deauther_Powerbank_v2_1.jpg)  
+![Deauther Powerbank v2 2](/Deauther-Powerbank/Deauther_Powerbank_v2_2.jpg)  
+
+| |
+| - |
+| ESP-07 with 1MByte flash |
+| 1x Neopixel (WS2812b) on GPIO 15 (D8) |
+
+[Tindie](https://www.tindie.com/products/lspoplove/dstike-wifi-deauther-power-bank-diy-kit-v2/)  
+[AliExpress](https://www.aliexpress.com/item/DSTIKE-WiFi-Deauther-Power-Bank-DIY-Kit-V2-20000mAh-18650-Pre-flashed-ESP8266-ESP-07-8dBi/32852082305.html)  
+[Dstike](https://dstike.com/collections/frontpage/products/dstike-wifi-deauther-power-bank-diy-kit-v2)
 
 Software:  
 - [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther/)  
