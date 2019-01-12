@@ -335,8 +335,8 @@ Software:
 
 **Discontinued**  
 
-![Deauther OLED v1 1](/Deauther-OLED/Deauther_OLED_v1_1.jpg)  
-![Deauther OLED v1 2](/Deauther-OLED/Deauther_OLED_v1_2.jpg)  
+![Deauther OLED v1 1](/Deauther-OLED/Deauther_OLED_v1_11.jpg)  
+![Deauther OLED v1 2](/Deauther-OLED/Deauther_OLED_v1_22.jpg)  
 
 |  |
 | - |
