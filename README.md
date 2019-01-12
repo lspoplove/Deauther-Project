@@ -108,8 +108,8 @@ Software:
 
 **Discontinued**
 
-![Deauther v1 1](/Deauther/Deauther_v1_1.jpg)  
-![Deauther v1 2](/Deauther/Deauther_v1_2.jpg)  
+![](https://github.com/lspoplove/Deauther-Project/blob/master/Deauther/Deauther_v1_1.jpg)  
+![](https://github.com/lspoplove/Deauther-Project/blob/master/Deauther/Deauther_v1_2.jpg)  
 
 [Tindie](https://www.tindie.com/products/lspoplove/pocket-8266-esp826618650-battery-wifi-deauther/)
 
