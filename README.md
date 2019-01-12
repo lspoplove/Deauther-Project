@@ -645,7 +645,9 @@ Software:
 ## NodeMCU-07 v2
 
 ![NodeMCU-07 v2 1](/NodeMCU-07/NodeMCU-07_v2_1.jpg)  
-![NodeMCU-07 v2 2](/NodeMCU-07/NodeMCU-07_v2_2.jpg)  
+![NodeMCU-07 v2 2](/NodeMCU-07/NodeMCU-07_v2_2.jpg)   
+[Schematic](/NodeMCU-07/NodeMCU-07_v2_schematic.pdf) 
+
 
 | |
 | - |
