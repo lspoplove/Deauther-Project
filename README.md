@@ -346,7 +346,7 @@ Software:
 | - |
 | Indicator LED on GPIO 16 |
 | 18650 LiPo support with integrated charger |
-| ESP-07 with 4MByte flash |
+| ESP-07 with 1MByte flash |
 | Micro USB connector |
 | 0.96" I2C OLED SSD1306 on SDA = GPIO 5 (D1), SCL = GPIO 4 (D2) |
 | Button Up on GPIO 12 |
@@ -371,7 +371,7 @@ Software:
 | - |
 | Indicator LED on GPIO 16 |
 | 18650 LiPo support with integrated charger |
-| ESP-07 with 4MByte flash |
+| ESP-07 with 1MByte flash |
 | Micro USB connector |
 | 0.96" I2C OLED SSD1306 on SDA = GPIO 5 (D1), SCL = GPIO 4 (D2) |
 | Button Up on GPIO 12 |
@@ -394,7 +394,7 @@ Software:
 | - |
 | 1x Neopixel (WS2812b) on GPIO 15 (D8) |
 | 18650 LiPo support with integrated charger |
-| ESP-07 with 4MByte flash |
+| ESP-07 with 1MByte flash |
 | Micro USB connector |
 | 0.96" I2C OLED SSD1306 on SDA = GPIO 5 (D1), SCL = GPIO 4 (D2) |
 | Button Up on GPIO 12 |
@@ -420,7 +420,7 @@ Software:
 | - |
 | Indicator LED on GPIO 16 |
 | 18650 LiPo support with integrated charger |
-| ESP-07 with 4MByte flash |
+| ESP-07 with 1MByte flash |
 | Micro USB connector |
 | 0.96" I2C OLED SH1106 on SDA = GPIO 5 (D1), SCL = GPIO 4 (D2) |
 | Button Up on GPIO 12 |
@@ -444,7 +444,7 @@ Software:
 | - |
 | Indicator LED on GPIO 16 |
 | 18650 LiPo support with integrated charger |
-| ESP-07 with 4MByte flash |
+| ESP-07 with 1MByte flash |
 | Micro USB connector |
 | 0.96" I2C OLED SH1106 on SDA = GPIO 5 (D1), SCL = GPIO 4 (D2) |
 | Button Up on GPIO 12 |
@@ -467,7 +467,7 @@ Software:
 | - |
 | Indicator LED on GPIO 16 |
 | 18650 LiPo support with integrated charger |
-| ESP-07 with 4MByte flash |
+| ESP-07 with 1MByte flash |
 | Micro USB connector |
 | 0.96" I2C OLED SH1106 on SDA = GPIO 5 (D1), SCL = GPIO 4 (D2) |
 | Button Up on GPIO 12 |
@@ -490,7 +490,7 @@ Software:
 | - |
 | 1x Neopixel (WS2812b) on GPIO 15 (D8) |
 | 18650 LiPo support with integrated charger |
-| ESP-07 with 4MByte flash |
+| ESP-07 with 1MByte flash |
 | Micro USB connector |
 | 1.3" I2C OLED SH1106 on SDA = GPIO 5 (D1), SCL = GPIO 4 (D2) |
 | Button Up on GPIO 12 |
@@ -515,7 +515,7 @@ Software:
 | - |
 | 1x Neopixel (WS2812b) on GPIO 15 (D8) |
 | 18650 LiPo support with integrated charger |
-| ESP-07 with 4MByte flash |
+| ESP-07 with 1MByte flash |
 | Micro USB connector |
 | 1.3" I2C OLED SH1106 on SDA = GPIO 5 (D1), SCL = GPIO 4 (D2) |
 | Button Up on GPIO 12 |
@@ -547,7 +547,7 @@ Software:
 | Highlight LED on GPIO 16 |
 | 1x Neopixel (WS2812b) on GPIO 15 (D8) |
 | Integrated LiPo with charger |
-| ESP-12 with 4MByte flash |
+| ESP-07 with 1MByte flash |
 | Micro USB connector |
 | 1.3" I2C OLED SH1106 on SDA = GPIO 5 (D1), SCL = GPIO 4 (D2) |
 | Button Up on GPIO 12 |
@@ -571,7 +571,7 @@ Software:
 | Highlight LED on GPIO 16 |
 | 1x Neopixel (WS2812b) on GPIO 15 (D8) |
 | Integrated LiPo with charger |
-| ESP-12 with 4MByte flash |
+| ESP-07 with 1MByte flash |
 | Micro USB connector |
 | 1.3" I2C OLED SH1106 on SDA = GPIO 5 (D1), SCL = GPIO 4 (D2) |
 | Button Up on GPIO 12 |
