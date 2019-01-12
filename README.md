@@ -240,6 +240,10 @@ Software:
 
 ![Deauther Mini 1](/Deauther-Mini/Deauther_Mini_1.jpg)  
 ![Deauther Mini 2](/Deauther-Mini/Deauther_Mini_22.jpg)  
+[Schematic](/Deauther-Mini/Deauther_Mini_schematic.pdf)
+[CAD](/Deauther-Mini/Deauther_Mini_cad.DWG)
+
+
 
 |  |
 | - |
