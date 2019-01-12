@@ -564,7 +564,14 @@ Software:
 ### Deauther Wristband v2
 
 ![Deauther Wristband v2 1](/Deauther-OLED/Deauther_Wristband_v2_1.jpg)  
-![Deauther Wristband v2 2](/Deauther-OLED/Deauther_Wristband_v2_2.jpg)  
+![Deauther Wristband v2 2](/Deauther-OLED/Deauther_Wristband_v2_2.jpg)    
+
+[Wristband—cover Schematic](/Deauther-Wristband/Deauther_Wristband_v2_Cover_schematic.pdf)       
+[Wristband-cover CAD](/Deauther-Wristband/Deauther_Wristband_v2_Cover_CAD.DWG)   
+
+[Wristband—base Schematic](/Deauther-Wristband/Deauther_Wristband_v2_Base_schematic.pdf)       
+[Wristband-base CAD](/Deauther-Wristband/Deauther_Wristband_v2_Base_CAD.DWG)
+
 
 |  |
 | - |
