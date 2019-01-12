@@ -128,9 +128,9 @@ Software:
 
 **Discontinued**
 
-![Deauther v1.5 1](/Deauther/Deauther_v1-5_1.jpg)  
-![Deauther v1.5 2](/Deauther/Deauther_v1-5_2.jpg)  
-
+![](https://github.com/lspoplove/Deauther-Project/blob/master/Deauther/DeautherV1.5_1.jpg)  
+![](https://github.com/lspoplove/Deauther-Project/blob/master/Deauther/DeautherV1.5_2.jpg)  
+[Schematic](https://github.com/lspoplove/Deauther-Project/blob/master/Deauther/DeautherV1.5_schematic.pdf)  
 |  |
 | - |
 | 18650 LiPo support with integrated charger  |
