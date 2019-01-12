@@ -191,6 +191,8 @@ Software:
 ![Deauther v3.5 1](/Deauther/Deauther_v3.5_1.jpg)
 ![Deauther v3.5 2](/Deauther/Deauther_v3.5_2.jpg)
 [Schematic](/Deauther/Deauther_v3.5_schematic.pdf)  
+
+
 |  |
 | - |
 | 1x Neopixel (WS2812b) on GPIO 15 (D8) |
