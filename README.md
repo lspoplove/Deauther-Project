@@ -314,6 +314,7 @@ Software:
 | Button Up on GPIO 12 |
 | Button Down on GPIO 13 |
 | Button A on GPIO 14 |
+| Battery Reverse protection |
 
 
 
