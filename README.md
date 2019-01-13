@@ -458,8 +458,8 @@ Videos:
 
 **Discontinued**  
 
-![Deauther OLED v2.5 1](/Deauther-OLED/Deauther_OLED_v2-5_1.jpg)  
-![Deauther OLED v2.5 2](/Deauther-OLED/Deauther_OLED_v2-5_2.jpg)  
+![Deauther OLED v2.5 1](/Deauther-OLED/Deauther_Oled_v2-5_1.jpg)  
+![Deauther OLED v2.5 2](/Deauther-OLED/Deauther_Oled_v2-5_2.jpg)  
 
 |  |
 | - |
