@@ -745,7 +745,6 @@ Videos:
 
 ### Deauther Powerbank v2
 
-**Discontinued**
 
 ![Deauther Powerbank v2 1](/Deauther-Powerbank/Deauther_Powerbank_v2_1.jpg)  
 ![Deauther Powerbank v2 2](/Deauther-Powerbank/Deauther_Powerbank_v2_2.jpg)  
