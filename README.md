@@ -379,6 +379,8 @@ Videos:
 
 ![Deauther OLED v1.5 1](/Deauther-OLED/Deauther_OLED_v1-5_1.jpg)  
 ![Deauther OLED v1.5 2](/Deauther-OLED/Deauther_OLED_v1-5_2.jpg)  
+![Deauther OLED v1.5 1](/Deauther-OLED/Deauther_OLED_v1-55_1.jpg)  
+![Deauther OLED v1.5 2](/Deauther-OLED/Deauther_OLED_v1-55_2.jpg)  
 
 |  |
 | - |
