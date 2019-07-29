@@ -339,7 +339,26 @@ Software:
 - [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther/)  
 
 ---  
+### Deauther Monster v3
 
+![Deauther Monster v2 1](/Deauther-Monster/Deauther_Monster_v3_1.jpg)  
+![Deauther Monster v2 2](/Deauther-Monster/Deauther_Monster_v3_2.jpg)  
+
+
+|  |
+| - |
+| 1x Neopixel (WS2812b) on GPIO 15 (D8) |
+| 2x 18650 LiPo support with integrated charger |
+| ESP-07 with 1MByte flash |
+| Micro USB connector |
+| 1.3" I2C OLED SH1106 on SDA = GPIO 5 (D1), SCL = GPIO 4 (D2) |
+| Button Up on GPIO 12 |
+| Button Down on GPIO 13 |
+| Button A on GPIO 14 |
+| Battery Reverse protection |
+
+
+---  
 ## Deauther OLED
 
 ---  
