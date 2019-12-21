@@ -1,3 +1,3 @@
-Befor using this you have to install rtclib from Adafuit first.
+Befor using this you have to install RTClib from Adafuit first.
 
 https://github.com/adafruit/RTClib
